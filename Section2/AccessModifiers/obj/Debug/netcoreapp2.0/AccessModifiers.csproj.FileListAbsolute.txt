@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/bin/Debug/netcoreapp2.0/AccessModifiers.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/AccessModifiers/obj/Debug/netcoreapp2.0/AccessModifiers.pdb

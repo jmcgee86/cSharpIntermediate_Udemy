@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/bin/Debug/netcoreapp2.0/Indexers.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Indexers/obj/Debug/netcoreapp2.0/Indexers.pdb

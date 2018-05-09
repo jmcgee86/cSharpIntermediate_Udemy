@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/obj/Debug/netcoreapp2.0/Fields.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/obj/Debug/netcoreapp2.0/Fields.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/obj/Debug/netcoreapp2.0/Fields.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/bin/Debug/netcoreapp2.0/Fields.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/bin/Debug/netcoreapp2.0/Fields.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/bin/Debug/netcoreapp2.0/Fields.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/bin/Debug/netcoreapp2.0/Fields.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/bin/Debug/netcoreapp2.0/Fields.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/obj/Debug/netcoreapp2.0/Fields.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Fields/obj/Debug/netcoreapp2.0/Fields.pdb
