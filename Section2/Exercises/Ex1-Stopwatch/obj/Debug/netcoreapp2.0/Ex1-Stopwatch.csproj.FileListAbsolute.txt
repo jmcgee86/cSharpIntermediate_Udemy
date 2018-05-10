@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/bin/Debug/netcoreapp2.0/Ex1-Stopwatch.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/bin/Debug/netcoreapp2.0/Ex1-Stopwatch.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/bin/Debug/netcoreapp2.0/Ex1-Stopwatch.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/bin/Debug/netcoreapp2.0/Ex1-Stopwatch.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/bin/Debug/netcoreapp2.0/Ex1-Stopwatch.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/obj/Debug/netcoreapp2.0/Ex1-Stopwatch.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/obj/Debug/netcoreapp2.0/Ex1-Stopwatch.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/obj/Debug/netcoreapp2.0/Ex1-Stopwatch.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/obj/Debug/netcoreapp2.0/Ex1-Stopwatch.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex1-Stopwatch/obj/Debug/netcoreapp2.0/Ex1-Stopwatch.pdb
