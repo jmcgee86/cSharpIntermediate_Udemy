@@ -46,13 +46,23 @@ namespace Ex1_Stopwatch
         static void Main(string[] args)
         {
             var stopWatch = new StopWatch();
-            stopWatch.Start();
+            string input = "";
             
-            Thread.Sleep(5000);
-            
-            stopWatch.Stop();
+            while (input != "exit")
+            {
+            System.Console.WriteLine("Press enter to start timer or exit to quit");
+            input = Console.ReadLine();
+            if (input == "exit")
+            break;
 
-            System.Console.WriteLine(stopWatch.getDuration());
+            stopWatch.Start();
+                        
+            System.Console.WriteLine("Timer is running, press enter to stop or exit to quit");
+            input = Console.ReadLine();
+            stopWatch.Stop();
+            System.Console.WriteLine("Time: " + stopWatch.getDuration());
+
+            }
 
         }
     }
