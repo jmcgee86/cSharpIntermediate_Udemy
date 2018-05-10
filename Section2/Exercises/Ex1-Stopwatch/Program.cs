@@ -5,39 +5,40 @@ namespace Ex1_Stopwatch
 {
     public class StopWatch
     {
-    private DateTime StartTime { get;  set; }
-    private DateTime StopTime { get;  set; }
+    private  DateTime _startTime;
+    private  DateTime _stopTime;
 
-    private bool started = false;
+    private bool _started = false;
 
-         public void Start(DateTime start)
+         public void Start()
         {
-            if (!started)
+            if (!_started)
             {
-                StartTime = start;
-                started = true;
+                _startTime = DateTime.Now;
+                _started = true;
             }
             else
             {
                 throw new InvalidOperationException("Already started the stopwatch");
             }
         }
-        public void Stop (DateTime stop)
+        public void Stop ()
         { 
-            if(started)
+            if(_started)
             {
-                StopTime = stop;
-                started = false;
+                _stopTime = DateTime.Now;
+                _started = false;
+            }
+            else
+            {
+                throw new InvalidOperationException("Haven't started the stopwatch");
             }        
         }
 
         public TimeSpan getDuration()
         {
-            
-                var duration = StopTime - StartTime;
+                var duration = _stopTime - _startTime;
                 return duration;
-            
-            
         }
     }
     class Program
@@ -45,11 +46,11 @@ namespace Ex1_Stopwatch
         static void Main(string[] args)
         {
             var stopWatch = new StopWatch();
-            stopWatch.Start(DateTime.Now);
+            stopWatch.Start();
             
             Thread.Sleep(5000);
             
-            stopWatch.Stop(DateTime.Now);
+            stopWatch.Stop();
 
             System.Console.WriteLine(stopWatch.getDuration());
 
