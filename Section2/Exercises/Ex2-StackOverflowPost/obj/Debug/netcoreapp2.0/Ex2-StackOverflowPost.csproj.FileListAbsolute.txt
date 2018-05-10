@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/obj/Debug/netcoreapp2.0/Ex2-StackOverflowPost.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/obj/Debug/netcoreapp2.0/Ex2-StackOverflowPost.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/obj/Debug/netcoreapp2.0/Ex2-StackOverflowPost.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/bin/Debug/netcoreapp2.0/Ex2-StackOverflowPost.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/bin/Debug/netcoreapp2.0/Ex2-StackOverflowPost.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/bin/Debug/netcoreapp2.0/Ex2-StackOverflowPost.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/bin/Debug/netcoreapp2.0/Ex2-StackOverflowPost.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/bin/Debug/netcoreapp2.0/Ex2-StackOverflowPost.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/obj/Debug/netcoreapp2.0/Ex2-StackOverflowPost.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section2/Exercises/Ex2-StackOverflowPost/obj/Debug/netcoreapp2.0/Ex2-StackOverflowPost.pdb
