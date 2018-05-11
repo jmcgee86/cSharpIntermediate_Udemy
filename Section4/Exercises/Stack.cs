@@ -7,7 +7,7 @@ namespace Exercises_Inheritance
     public class Stack
     {
         
-        public ArrayList list = new ArrayList();
+        private ArrayList list = new ArrayList();
 
         public void Push (object obj)
         {

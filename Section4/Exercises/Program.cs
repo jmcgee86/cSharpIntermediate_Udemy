@@ -19,6 +19,7 @@ namespace Exercises_Inheritance
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
             Console.WriteLine(stack.Pop());
+
         }
     }
 }
