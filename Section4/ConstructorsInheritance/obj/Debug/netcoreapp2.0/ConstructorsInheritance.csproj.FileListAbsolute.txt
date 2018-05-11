@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/bin/Debug/netcoreapp2.0/ConstructorsInheritance.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/bin/Debug/netcoreapp2.0/ConstructorsInheritance.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/bin/Debug/netcoreapp2.0/ConstructorsInheritance.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/bin/Debug/netcoreapp2.0/ConstructorsInheritance.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/bin/Debug/netcoreapp2.0/ConstructorsInheritance.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/obj/Debug/netcoreapp2.0/ConstructorsInheritance.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/obj/Debug/netcoreapp2.0/ConstructorsInheritance.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/obj/Debug/netcoreapp2.0/ConstructorsInheritance.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/obj/Debug/netcoreapp2.0/ConstructorsInheritance.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section4/ConstructorsInheritance/obj/Debug/netcoreapp2.0/ConstructorsInheritance.pdb
