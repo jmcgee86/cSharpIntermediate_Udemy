@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/obj/Debug/netcoreapp2.0/Overriding.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/obj/Debug/netcoreapp2.0/Overriding.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/obj/Debug/netcoreapp2.0/Overriding.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/bin/Debug/netcoreapp2.0/Overriding.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/bin/Debug/netcoreapp2.0/Overriding.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/bin/Debug/netcoreapp2.0/Overriding.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/bin/Debug/netcoreapp2.0/Overriding.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/bin/Debug/netcoreapp2.0/Overriding.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/obj/Debug/netcoreapp2.0/Overriding.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/Overriding/obj/Debug/netcoreapp2.0/Overriding.pdb
