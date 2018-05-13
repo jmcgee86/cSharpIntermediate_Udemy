@@ -16,6 +16,11 @@ namespace Ex2_StackOverflowPost
             _title = title;
         }
 
+        public string GetTitle()
+        {
+            return _title;
+        }
+
         public void SetDescription(string description)
         {
             _description = description;
@@ -44,7 +49,8 @@ namespace Ex2_StackOverflowPost
         {
             var post1 = new Post();
             System.Console.WriteLine(post1.CreatedOn);
-
+           post1.SetTitle("Post");
+           post1.GetTitle();
             post1.UpVote();
             post1.UpVote();
             post1.DownVote();

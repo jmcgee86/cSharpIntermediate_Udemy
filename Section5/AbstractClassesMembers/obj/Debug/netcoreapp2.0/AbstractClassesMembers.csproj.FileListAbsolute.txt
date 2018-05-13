@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/obj/Debug/netcoreapp2.0/AbstractClassesMembers.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/obj/Debug/netcoreapp2.0/AbstractClassesMembers.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/obj/Debug/netcoreapp2.0/AbstractClassesMembers.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/bin/Debug/netcoreapp2.0/AbstractClassesMembers.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/bin/Debug/netcoreapp2.0/AbstractClassesMembers.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/bin/Debug/netcoreapp2.0/AbstractClassesMembers.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/bin/Debug/netcoreapp2.0/AbstractClassesMembers.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/bin/Debug/netcoreapp2.0/AbstractClassesMembers.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/obj/Debug/netcoreapp2.0/AbstractClassesMembers.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section5/AbstractClassesMembers/obj/Debug/netcoreapp2.0/AbstractClassesMembers.pdb
