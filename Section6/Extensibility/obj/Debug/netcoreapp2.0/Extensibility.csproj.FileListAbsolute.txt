@@ -1,0 +1,10 @@
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.AssemblyInfo.cs
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.deps.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.runtimeconfig.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.runtimeconfig.dev.json
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.pdb
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.dll
+/Users/jmcgee/Documents/cSharpIntermediate_Udemy/Section6/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.pdb
